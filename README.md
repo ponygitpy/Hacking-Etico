@@ -3,7 +3,7 @@
 
 # Bienvenido al baul de pony.py 
 
-Esto son archivos con conocimiento recopilado en un robo de informacion pasiva por PONY.PY creador por varios Autores de enseñanza profecionales del Hackingen, aqui los comparto esto para nuevos inspidadores en el hackeos que siente pasion y motivacion!
+Esto son archivos publicados en el internet con conocimiento de Hacking Etico encontrados en un robo pasivo de informacion por PONY.PY creador por varios Autores de enseñanza profecionales en universidades, aqui los comparto esto para nuevos inspidadores en el hackeos que siente pasion y motivacion!
 
 ## 📂 Archivos disponibles
 
